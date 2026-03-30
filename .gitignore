@@ -1,0 +1,6 @@
+.env
+models/bert_embeddings.npy
+data/train.json
+vectorstores/listings.index
+*.npy
+*.index
